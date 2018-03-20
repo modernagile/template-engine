@@ -1,9 +1,7 @@
-import interfascia.*;
-import java.io.*;
-
 import processing.svg.*;
 import processing.pdf.*;
-import java.util.*;
+
+import interfascia.*;
 
 GUIController gui;
 IFButton importButton;
@@ -95,7 +93,7 @@ void clearPDF2SVGPath() {
   pdf2svgPath = "";
   pathToValue.setLabel(pdf2svgPath);
   String[] filePath = new String[0];
-  saveStrings("svg2pfpath.cfg", filePath);
+  saveStrings(dataPath("")+"/svg2pfpath.cfg", filePath);
 }
 
 void actionPerformed (GUIEvent e) {
@@ -127,7 +125,7 @@ void savePDF2SVGPath(File dataFile) {
   pathToValue.setLabel(pdf2svgPath);
   String[] filePath = new String[1];
   filePath[0] = pdf2svgPath;
-  saveStrings("svg2pfpath.cfg", filePath);
+  saveStrings(dataPath("")+"/svg2pfpath.cfg", filePath);
 }
 
 void processDataFile(File dataFile) { 

@@ -1,12 +1,9 @@
-package interfascia;
-
-import processing.event.*;
-
-public class IFCheckBoxCustom extends GUIComponent {
+public class IFCheckBoxCustom extends IFCheckBox {
   private int currentColor;
   private boolean selected = false;
 
   public IFCheckBoxCustom (String newLabel, int newX, int newY) {
+    super(newLabel, newX, newY);
     setLabel(newLabel);
     setPosition(newX, newY);
     setSize(14, 14);
