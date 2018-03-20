@@ -1,0 +1,191 @@
+{
+	"template": "modern_agile_wheel_3L.svg",
+	"defaultFont": "OpenSans-Semibold",
+	"defaultGeometry": {
+		"makePeopleAwesome" : {
+			"x": 577,
+			"y": 184,
+			"fontSize": 40,
+			"leading": 48,
+			"color": "FF4b5666",
+			"aligmentX": "CENTER",
+			"aligmentY": "TOP"
+		},
+		"makeSafetyaPrerequisite" : {
+			"x": 577,
+			"y": 913,
+			"fontSize": 40,
+			"leading": 48,
+			"color": "FF4b5666",
+			"aligmentX": "CENTER",
+			"aligmentY": "TOP"
+		},
+		"experimentAndLearnRapidly" : {
+			"x": 212,
+			"y": 548,
+			"fontSize": 40,
+			"leading": 48,
+			"color": "FF4b5666",
+			"aligmentX": "CENTER",
+			"aligmentY": "TOP"
+		},
+		"deliverValueContinuously" : {
+			"x": 939,
+			"y": 548,
+			"fontSize": 40,
+			"leading": 48,
+			"color": "FF4b5666",
+			"aligmentX": "CENTER",
+			"aligmentY": "TOP"
+		}
+	},
+	"entries": [
+		{
+			"id": "Italian",
+			"data": [
+				["makePeopleAwesome", "Fai diventare\nle persone\nstraordinarie"],
+				["makeSafetyaPrerequisite", "Fai che la\nsicurezza sia\nun prerequisito"],
+				["experimentAndLearnRapidly", "Sperimentare\ne imparare\nvelocemente"],
+				["deliverValueContinuously", "Creare\nvalore\ncontinuamente"]
+			]
+		},
+		{
+			"id": "Swedish",
+			"data": [
+				["makePeopleAwesome", "Hjälp\nmänniskor\nbriljera"],
+				["makeSafetyaPrerequisite", "Skapa\ntrygga\nförutsättningar"],
+				["experimentAndLearnRapidly", "Experimentera\noch lär\ndig snabbt"],
+				["deliverValueContinuously", "Leverera\nvärde\nlöpande"]
+			]
+		},
+		{
+			"id": "Ukrainian",
+			"data": [
+				["makePeopleAwesome", "Робіть\nлюдей\nкрутими"],
+				["makeSafetyaPrerequisite", "Зробіть\nбезпеку\nпередумовою"],
+				["experimentAndLearnRapidly", "Експериментуйте\nі вчіться\nмиттєво"],
+				["deliverValueContinuously", "Постачайте\nцінність\nпостійно"]
+			]
+		},
+		{
+			"id": "Russian",
+			"data": [
+				["makePeopleAwesome", "Делай\nлюдей\nклассными"],
+				["makeSafetyaPrerequisite", "Сделай\nбезопасность\nпредусловием"],
+				["experimentAndLearnRapidly", "Ставь\nэксперименты\nи быстро учись"],
+				["deliverValueContinuously", "Поставляй\nценность\nпостоянно"]
+			]
+		},
+		{
+			"id": "Thai",
+			"font": "THFahkwang-Bold",
+			"geometry": {
+				"makePeopleAwesome" : {
+					"x": 577,
+					"y": 184,
+					"fontSize": 53,
+					"leading": 48,
+					"color": "FF4b5666",
+					"aligmentX": "CENTER",
+					"aligmentY": "TOP"
+				},
+				"makeSafetyaPrerequisite" : {
+					"x": 577,
+					"y": 913,
+					"fontSize": 53,
+					"leading": 48,
+					"color": "FF4b5666",
+					"aligmentX": "CENTER",
+					"aligmentY": "TOP"
+				},
+				"experimentAndLearnRapidly" : {
+					"x": 212,
+					"y": 548,
+					"fontSize": 53,
+					"leading": 48,
+					"color": "FF4b5666",
+					"aligmentX": "CENTER",
+					"aligmentY": "TOP"
+				},
+				"deliverValueContinuously" : {
+					"x": 939,
+					"y": 548,
+					"fontSize": 53,
+					"leading": 48,
+					"color": "FF4b5666",
+					"aligmentX": "CENTER",
+					"aligmentY": "TOP"
+				}
+			},
+			"data": [
+				["makePeopleAwesome", "ทำให้คน\nรู้สึกว่าตัวเอง\nสุดยอด"],
+				["makeSafetyaPrerequisite", "สร้างความรู้สึก\nปลอดภัย\nเป็นที่ตั้ง"],
+				["experimentAndLearnRapidly", "ทำการทดลอง\nและ เรียนรู้\nอย่างรวดเร็ว"],
+				["deliverValueContinuously", "ส่งมอบ\nคุณค่า\nอย่างต่อเนื่อง"]
+			]
+		},
+		{
+			"id": "French",
+			"data": [
+				["makePeopleAwesome", "Rendre\nles gens\nfantastiques"],
+				["makeSafetyaPrerequisite", "Faire de la\nsécurité un\nprérequis"],
+				["experimentAndLearnRapidly", "Expérimenter\net apprendre\nrapidement"],
+				["deliverValueContinuously", "Apporter\nde la valeur\nen continu"]
+			]
+		},
+		{
+			"id": "Czech",
+			"data": [
+				["makePeopleAwesome", "Pomozte lidem\nstát se\nexcelentními"],
+				["makeSafetyaPrerequisite", "Bezpečné\nprostředí je\nprerekvizitou"],
+				["experimentAndLearnRapidly", "Experimentujte\na rychle\nse učte"],
+				["deliverValueContinuously", "Neustále\ndodávejte\nhodnotu"]
+			]
+		},
+		{
+			"id": "German",
+			"data": [
+				["makePeopleAwesome", "Macht\nMenschen\ngenial"],
+				["makeSafetyaPrerequisite", "Macht\nSicherheit eine\nGrundvoraussetzung"],
+				["experimentAndLearnRapidly", "Experimentiert\nund lernt\nzügig"],
+				["deliverValueContinuously", "Liefert\nfortlaufend\nWertvolles aus"]
+			]
+		},
+		{
+			"id": "Croatian",
+			"data": [
+				["makePeopleAwesome", "Razvijaj\nizvrsnost\nkod svih"],
+				["makeSafetyaPrerequisite", "Sigurnost\nneka bude\npreduvjet"],
+				["experimentAndLearnRapidly", "Brzo\neksperimentiraj\ni uči"],
+				["deliverValueContinuously", "Neprekidno\nisporučuj\nvrijednost"]
+			]
+		},
+		{
+			"id": "Indonesian",
+			"data": [
+				["makePeopleAwesome", "Menjadikan\norang untuk\nunggul"],
+				["makeSafetyaPrerequisite", "Menjadikan\nkeamanan sebagai\nsyarat"],
+				["experimentAndLearnRapidly", "Eksperimen dan\nbelajar dengan\ncepat & lancar"],
+				["deliverValueContinuously", "Memberikan nilai\nsecara\nterus menerus"]
+			]
+		},
+		{
+			"id": "Afrikaans",
+			"data": [
+				["makePeopleAwesome", "Maak\nMense\nFantasties"],
+				["makeSafetyaPrerequisite", "Maak\nVeiligheid 'n\nVoorvereiste"],
+				["experimentAndLearnRapidly", "Experimenteer\n& Leer\nVinnig"],
+				["deliverValueContinuously", "Lewer\nVoortdurend\nWaarde"]
+			]
+		},
+		{
+			"id": "Serbian",
+			"data": [
+				["makePeopleAwesome", "Učini da ljudi\npostanu\nfenomenalni"],
+				["makeSafetyaPrerequisite", "Učini da\nsigurnost\nbude preduslov"],
+				["experimentAndLearnRapidly", "Eksperimentiši\ni uči\nbrzo"],
+				["deliverValueContinuously", "Neprekidno\nisporučuj\nvrednost"]
+			]
+		}
+	]
+}

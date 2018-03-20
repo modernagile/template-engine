@@ -1,0 +1,128 @@
+{
+  "template": "modern_agile_wheel_2L.svg",
+  "defaultFont": "OpenSans-Semibold",
+  "defaultGeometry": {
+    "makePeopleAwesome" : {
+      "x": 553,
+      "y": 199,
+      "fontSize": 40,
+      "leading": 48,
+      "color": "FF4b5666",
+      "aligmentX": "CENTER",
+      "aligmentY": "TOP"
+    },
+    "makeSafetyaPrerequisite" : {
+      "x": 553,
+      "y": 913,
+      "fontSize": 40,
+      "leading": 48,
+      "color": "FF4b5666",
+      "aligmentX": "CENTER",
+      "aligmentY": "TOP"
+    },
+    "experimentAndLearnRapidly" : {
+      "x": 199,
+      "y": 543,
+      "fontSize": 40,
+      "leading": 48,
+      "color": "FF4b5666",
+      "aligmentX": "CENTER",
+      "aligmentY": "TOP"
+    },
+    "deliverValueContinuously" : {
+      "x": 909,
+      "y": 543,
+      "fontSize": 40,
+      "leading": 48,
+      "color": "FF4b5666",
+      "aligmentX": "CENTER",
+      "aligmentY": "TOP"
+    }
+  },
+  "entries": [
+    {
+      "id": "English",
+      "data": [
+        ["makePeopleAwesome", "Make People\nAwesome"],
+        ["makeSafetyaPrerequisite", "Make Safety\na Prerequisite"],
+        ["experimentAndLearnRapidly", "Experiment &\nLearn Rapidly"],
+        ["deliverValueContinuously", "Deliver Value\nContinuously"]
+      ]
+    },
+    {
+      "id": "Portuguese",
+      "data": [
+        ["makePeopleAwesome", "Torne Pessoas\nSensacionais"],
+        ["makeSafetyaPrerequisite", "Faça da segurança\num pré-requisito"],
+        ["experimentAndLearnRapidly", "Experimente e\naprenda rápido"],
+        ["deliverValueContinuously", "Entregue valor a\ntodo instante"]
+      ]
+    },
+    {
+      "id": "Dutch",
+      "data": [
+        ["makePeopleAwesome", "Maak Mensen\nGeweldig"],
+        ["makeSafetyaPrerequisite", "Maak Veiligheid\neen Voorwaarde"],
+        ["experimentAndLearnRapidly", "Experimenteer\nen Leer Snel"],
+        ["deliverValueContinuously", "Lever Continu\nWaarde"]
+      ]
+    },
+    {
+      "id": "Spanish",
+      "data": [
+        ["makePeopleAwesome", "Haz que las personas\nsean geniales"],
+        ["makeSafetyaPrerequisite", "Haz de la seguridad\nun prerrequisito"],
+        ["experimentAndLearnRapidly", "Experimenta y\naprende rápido"],
+        ["deliverValueContinuously", "Entrega valor\ncontinuamente"]
+      ]
+    },
+    {
+      "id": "Arabic",
+      "font": "Arial-BoldMT",
+      "data": [
+        ["makePeopleAwesome", "أَعِدّ\nأناساً رائعين"],
+        ["makeSafetyaPrerequisite", "اجعل الأمان\nشرطاً أساسياً"],
+        ["experimentAndLearnRapidly", "اكتشف سريعاً\nوتعلم بالتجربة"],
+        ["deliverValueContinuously", "أَنتِجْ قيمة\nبشكل متواصل"]
+      ]
+    },
+    {
+      "id": "Japanese",
+      "font": "HiraMaruProN-W4",
+      "data": [
+        ["makePeopleAwesome", "人々を\n最高に輝かせる"],
+        ["makeSafetyaPrerequisite", "安全を\n必須条件にする"],
+        ["experimentAndLearnRapidly", "高速に\n実験＆学習する"],
+        ["deliverValueContinuously", "継続的に\n価値を届ける"]
+      ]
+    },
+    {
+      "id": "Polish",
+      "data": [
+        ["makePeopleAwesome", "Wyzwalaj w ludziach\nwspaniałość"],
+        ["makeSafetyaPrerequisite", "Najpierw zapewnij\nbezpieczeństwo"],
+        ["experimentAndLearnRapidly", "Eksperymentuj\ni ucz się szybko"],
+        ["deliverValueContinuously", "Stale dostarczaj\nwartość"]
+      ]
+    },
+    {
+      "id": "Finnish",
+      "data": [
+        ["makePeopleAwesome", "Auta ihmisiä\nloistamaan"],
+        ["makeSafetyaPrerequisite", "Tee turvallisuudesta\nlähtökohta"],
+        ["experimentAndLearnRapidly", "Kokeile ja\nopi nopeasti"],
+        ["deliverValueContinuously", "Toimita arvoa\njatkuvasti"]
+      ]
+    },
+    {
+      "id": "Chinese",
+      "font": "SimHei",
+      "data": [
+        ["makePeopleAwesome", "让每个人\n更棒"],
+        ["makeSafetyaPrerequisite", "安全是\n先决条件"],
+        ["experimentAndLearnRapidly", "快速的实验\n和学习"],
+        ["deliverValueContinuously", "持续输送\n价值"]
+      ]
+    }
+  ]
+}
