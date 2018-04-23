@@ -123,6 +123,24 @@
         ["experimentAndLearnRapidly", "快速的实验\n和学习"],
         ["deliverValueContinuously", "持续输送\n价值"]
       ]
-    }
+    },
+    {
+      "id": "Norwegian",
+      "data": [
+        ["makePeopleAwesome", "Gjør folk\nsupre"],
+        ["makeSafetyaPrerequisite", "Skap\ntrygge rammer"],
+        ["experimentAndLearnRapidly", "Eksperimentér\nog lær raskt"],
+        ["deliverValueContinuously", "Levér verdi\nfortløpende"]
+      ]
+    },
+    {
+      "id": "Norwegian-Nynorsk",
+      "data": [
+        ["makePeopleAwesome", "Gjer folk\nsupre"],
+        ["makeSafetyaPrerequisite", "Skap\ntrygge rammer"],
+        ["experimentAndLearnRapidly", "Eksperimentér\nog lær raskt"],
+        ["deliverValueContinuously", "Levér verdi\nfortløpande"]
+      ]
+    }    
   ]
 }
