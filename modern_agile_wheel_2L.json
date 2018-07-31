@@ -141,6 +141,16 @@
         ["experimentAndLearnRapidly", "Eksperimentér\nog lær raskt"],
         ["deliverValueContinuously", "Levér verdi\nfortløpande"]
       ]
-    }    
+    },
+    {
+      "id": "Persian",
+      "font": "Arial-BoldMT",
+      "data": [
+        ["makePeopleAwesome", "موجب شگفت‌انگیز شدن\rهمه آدم‌ها بشوید"],
+        ["makeSafetyaPrerequisite", "امنیت خاطر را\rپیش‌نیاز قرار بدهید"],
+        ["experimentAndLearnRapidly", "سریع بیازمایید\rو یاد بگیرید"],
+        ["deliverValueContinuously", "پیوسته، ارزش‌ها\rرا ارایه‌ دهید"]
+      ]
+    }
   ]
 }
