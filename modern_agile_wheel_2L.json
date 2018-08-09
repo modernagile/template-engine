@@ -144,7 +144,7 @@
     },
     {
       "id": "Persian",
-      "font": "Arial-BoldMT",
+      "font": "Vazir-Bold",
       "data": [
         ["makePeopleAwesome", "آدم‌ها را\nمعرکه کنید"],
         ["makeSafetyaPrerequisite", "ایمنی را بر\nهمه چیز مقدم شمارید"],

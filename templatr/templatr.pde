@@ -18,7 +18,7 @@ JSONObject templateData;
 PShape templateShape;
 int templateWidth, templateHeight;
 
-String DEFAULT_FONT = "OpenSans.otf";
+String DEFAULT_FONT = "OpenSans-Semibold";
 final String EXPORT_FOLDER = "/export";
 String EXPORT_PATH = "/export";
 String ROOT_FOLDER;
