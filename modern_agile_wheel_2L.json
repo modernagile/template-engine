@@ -144,12 +144,12 @@
     },
     {
       "id": "Persian",
-      "font": "Vazir-Bold",
+      "font": "Vazir Bold",
       "data": [
-        ["makePeopleAwesome", "آدم‌ها را\nمعرکه کنید"],
-        ["makeSafetyaPrerequisite", "ایمنی را بر\nهمه چیز مقدم شمارید"],
-        ["experimentAndLearnRapidly", "سریع بیآزمایید\nو سریع یاد بگیرید"],
-        ["deliverValueContinuously", "پیوسته و مدام\nارزش‌ها را تحویل دهید"]
+        ["makePeopleAwesome", "موجب معرکه شدن\nهمه افراد شوید"],
+    		["makeSafetyaPrerequisite", "امنیت خاطر را\nپیش‌نیاز همه چیز قرار دهید"],
+    		["experimentAndLearnRapidly", "سریع بیآزمایید\nو سریع یاد بگیرید"],
+    		["deliverValueContinuously", "به صورت پیوسته\nارزش‌آفرینی کنید"]
       ]
     }
   ]
