@@ -3,3 +3,4 @@ site/
 packages/
 templatr/application.*
 .idea/
+node_modules/

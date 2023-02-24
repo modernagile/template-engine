@@ -6,7 +6,7 @@ This application seems to be generated or based on [Processing](https://processi
 
 Add your translations to modern_agile_wheel_3L.json
 
-To run on mac, open the templatr in templatr/build/application.macosx.
+To run on mac, open the templatr in templatr/build/application.macosx (or whatever is appropriate for you).
 
 Check the boxes for the file types you want to generate.
 
@@ -14,7 +14,10 @@ Select the json file you edited with your translation.
 
 Wait. The media kit and images will be generated.
 
-Look for the output files in the **export** directories.
+### Package
+You will need to run packageMediaKit (via node, which expects shelljs package to be installed).
+
+This js program will create package/*zip files for you. You can then take the .zip files and apply them to the ModernAgile site.
 
 ## Then what?
 You will want to copy the generated media files to the ModernAgile site and continue there as explained in that README.md file.

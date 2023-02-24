@@ -1,10 +1,12 @@
+require("shelljs/global")
+
 var PACKAGES_DIR = 'packages';
 var SITE_DIR = 'site';
 var INCLUDE_DIR = 'include';
 var EXPORT_DIR = 'export';
 var EXCLUDE = [];
 
-var templates = ['pdf', 'svg', 'png'];
+var templates = ['pdf', 'svg', 'png'];  // Templates == "file formats"
 var mediaKit = {};
 
 echo('---------------------------------------');
@@ -14,19 +16,20 @@ if(test('-d', PACKAGES_DIR)) {
   echo('---------------------------------------');
   rm('-rf', PACKAGES_DIR);
 }
+mkdir(PACKAGES_DIR);
 
 if(test('-d', SITE_DIR)) {
   echo('Deleting previous Site');
   echo('---------------------------------------');
   rm('-rf', SITE_DIR);
 }
-
-mkdir(PACKAGES_DIR);
 mkdir(SITE_DIR);
+
 
 templates.forEach(function(template) {
 	echo('Packaging ' + template.toUpperCase() + ' files:');
-	var templateFileType = template.toLowerCase();
+	var templateFileType = template.toLowerCase(); // redundant, since we define them in lowercase
+
 	ls(EXPORT_DIR + '/' + template + '/*.' + templateFileType).forEach(function(file) {
 		var languageRAW = file.split('_');
 		var language = languageRAW[languageRAW.length-1].split('.')[0];

@@ -186,6 +186,15 @@
 				["experimentAndLearnRapidly", "Eksperimentiši\ni uči\nbrzo"],
 				["deliverValueContinuously", "Neprekidno\nisporučuj\nvrednost"]
 			]
+		},
+		{
+			"id": "Lithuanian",
+			"data": [
+				["makePeopleAwesome", "Padėkime\nžmonėms būti\nnuostabiais"],
+				["makeSafetyaPrerequisite", "Užtikrinkime\npirmenybę\nsaugumui"],
+				["experimentAndLearnRapidly", "Tyrinėkime ir\nmokykimės\nsparčiu tempu"],
+				["deliverValueContinuously", "Siekime\nnuolat kurti\nnaudą"]
+			]
 		}
 	]
 }

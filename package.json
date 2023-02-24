@@ -1,0 +1,23 @@
+{
+  "name": "modernagile-wheelgen",
+  "version": "1.0.0",
+  "description": "This application seems to be generated or based on [Processing](https://processing.org/). We're not sure how to regenerate it, or how it was originally created.",
+  "main": "packageMediaKits.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modernagile/template-engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modernagile/template-engine/issues"
+  },
+  "homepage": "https://github.com/modernagile/template-engine#readme",
+  "dependencies": {
+    "jsc": "^0.3.11",
+    "shelljs": "^0.8.5"
+  }
+}
